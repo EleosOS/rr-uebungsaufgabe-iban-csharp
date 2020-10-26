@@ -1,0 +1,13 @@
+C:\Users\rrais\Desktop\Entwicklung\CSharpIBAN\CSharpIBAN\obj\Debug\netcoreapp3.1\CSharpIBAN.csprojAssemblyReference.cache
+C:\Users\rrais\Desktop\Entwicklung\CSharpIBAN\CSharpIBAN\obj\Debug\netcoreapp3.1\CSharpIBAN.AssemblyInfoInputs.cache
+C:\Users\rrais\Desktop\Entwicklung\CSharpIBAN\CSharpIBAN\obj\Debug\netcoreapp3.1\CSharpIBAN.AssemblyInfo.cs
+C:\Users\rrais\Desktop\Entwicklung\CSharpIBAN\CSharpIBAN\obj\Debug\netcoreapp3.1\CSharpIBAN.csproj.CoreCompileInputs.cache
+C:\Users\rrais\Desktop\Entwicklung\CSharpIBAN\CSharpIBAN\bin\Debug\netcoreapp3.1\CSharpIBAN.exe
+C:\Users\rrais\Desktop\Entwicklung\CSharpIBAN\CSharpIBAN\bin\Debug\netcoreapp3.1\CSharpIBAN.deps.json
+C:\Users\rrais\Desktop\Entwicklung\CSharpIBAN\CSharpIBAN\bin\Debug\netcoreapp3.1\CSharpIBAN.runtimeconfig.json
+C:\Users\rrais\Desktop\Entwicklung\CSharpIBAN\CSharpIBAN\bin\Debug\netcoreapp3.1\CSharpIBAN.runtimeconfig.dev.json
+C:\Users\rrais\Desktop\Entwicklung\CSharpIBAN\CSharpIBAN\bin\Debug\netcoreapp3.1\CSharpIBAN.dll
+C:\Users\rrais\Desktop\Entwicklung\CSharpIBAN\CSharpIBAN\bin\Debug\netcoreapp3.1\CSharpIBAN.pdb
+C:\Users\rrais\Desktop\Entwicklung\CSharpIBAN\CSharpIBAN\obj\Debug\netcoreapp3.1\CSharpIBAN.dll
+C:\Users\rrais\Desktop\Entwicklung\CSharpIBAN\CSharpIBAN\obj\Debug\netcoreapp3.1\CSharpIBAN.pdb
+C:\Users\rrais\Desktop\Entwicklung\CSharpIBAN\CSharpIBAN\obj\Debug\netcoreapp3.1\CSharpIBAN.genruntimeconfig.cache
